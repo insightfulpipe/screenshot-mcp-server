@@ -1,11 +1,14 @@
-# Screenshot MCP Server
+# Screenshot MCP Server by Insightful Pipe
 
 [![MCP Compatible](https://img.shields.io/badge/MCP-Compatible-blue)](https://insightfulpipe.com/mcp-servers/screenshot)
+[![Insightful Pipe](https://img.shields.io/badge/Insightful_Pipe-MCP_Servers-purple)](https://insightfulpipe.com/mcp-servers)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 > **Capture high-quality website screenshots with AI through MCP.**
 
-The Screenshot MCP server enables Claude, ChatGPT, Cursor, and other AI assistants to capture screenshots of web pages. Generate visual documentation, compare designs, and analyze page layouts.
+Part of the [Insightful Pipe MCP Server Collection](https://insightfulpipe.com/mcp-servers) — The Screenshot MCP server enables Claude, ChatGPT, Cursor, and other AI assistants to capture screenshots of web pages. Generate visual documentation, compare designs, and analyze page layouts.
+
+[![Explore All MCP Servers](https://img.shields.io/badge/Explore_All-MCP_Servers-blue?style=for-the-badge)](https://insightfulpipe.com/mcp-servers)
 
 ![Screenshot MCP Server](https://insightfulpipe.com/images/ip-logo.png)
 
@@ -125,11 +128,19 @@ claude mcp add screenshot https://screenshot.insightfulmcp.com/
 - **Public URLs only** - By default
 - **Data encryption** - Secure transmission
 
-## Related MCP Servers
+## Explore More MCP Servers by Insightful Pipe
 
+Visit **[insightfulpipe.com/mcp-servers](https://insightfulpipe.com/mcp-servers)** to discover our full collection of MCP servers for marketing and analytics.
+
+### Web Tools MCP Servers
 - [Web Crawler MCP](https://insightfulpipe.com/mcp-servers/crawler) - Web crawling
 - [PageSpeed MCP](https://insightfulpipe.com/mcp-servers/pagespeed) - Performance
+
+### SEO MCP Servers
 - [Google Search Console MCP](https://insightfulpipe.com/mcp-servers/google-search-console) - SEO
+- [Google My Business MCP](https://insightfulpipe.com/mcp-servers/google-my-business) - Local SEO
+
+**[View All MCP Servers →](https://insightfulpipe.com/mcp-servers)**
 
 ## Resources
 
@@ -140,7 +151,12 @@ claude mcp add screenshot https://screenshot.insightfulmcp.com/
 ## Support
 
 - **Documentation**: [insightfulpipe.com/docs](https://insightfulpipe.com/docs)
+- **All MCP Servers**: [insightfulpipe.com/mcp-servers](https://insightfulpipe.com/mcp-servers)
 - **Email**: support@insightfulpipe.com
+
+---
+
+**[Insightful Pipe](https://insightfulpipe.com)** — AI-powered marketing analytics through MCP servers. [Explore all integrations →](https://insightfulpipe.com/mcp-servers)
 
 ## License
 
